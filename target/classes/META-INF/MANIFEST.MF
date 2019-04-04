@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Build-Timestamp: Tue, 5 Aug 2014 10:27:32 -0500
+Implementation-Title: JBoss Marshalling River
+Implementation-Version: 1.4.8.Final
+Os-Version: 3.14.4-100.fc19.x86_64
+Built-By: david
+Specification-Vendor: JBoss by Red Hat
+Created-By: Apache Maven 3.2.1
+Os-Name: Linux
+Implementation-URL: http://www.jboss.org/jboss-marshalling-parent/jbos
+ s-marshalling-river
+Java-Vendor: Oracle Corporation
+Implementation-Vendor: JBoss by Red Hat
+Scm-Revision: b1dac205b099244ff6f1ac68d4aa49f4c3195b26
+Implementation-Vendor-Id: org.jboss.marshalling
+Scm-Url: http://github.com/jboss/jboss-parent-pom/jboss-marshalling-pa
+ rent/jboss-marshalling-river
+Build-Jdk: 1.7.0_51
+Java-Version: 1.7.0_51
+Scm-Connection: scm:git:git@github.com:jboss/jboss-parent-pom.git/jbos
+ s-marshalling-parent/jboss-marshalling-river
+Os-Arch: amd64
+Specification-Title: JBoss Marshalling River
+Specification-Version: 1.4.8.Final
+Archiver-Version: Plexus Archiver
+
